@@ -8,13 +8,15 @@
   </a>
 </div>
   </div>
+  
 ## Hi there 👋
 
 ### :woman_technologist: About Me :
 - :dancer: Im a frontend developer with an eye for design :eyes:
 - 🔭 I’m currently working on a "Budsjett"(budget) website.
-- 🤔 I'm looking for a frontend developer job in my area. ✨
-- ⚡ Fun fact: 
+- 🤔 I'm looking for a frontend developer job in my area.:+1:
+- :video_game: Im currently gaming: Hogwarts Legacy
+- ⚡ Fun fact: Before I started my journey in frontend development I was a hairdresser for 10 years! :haircut:
 
 ### :hammer_and_wrench: Languages and Tools :
 <span>
@@ -28,4 +30,8 @@
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/xd/xd-plain.svg" alt="adobe xd" title="adobe" width="40" height="40"/>
 </span>
+
+
+### More:
+ :sparkles: Take a look at my [portfolio](https://siljethunes-portfolio.netlify.app/#about) :sparkles:
 
