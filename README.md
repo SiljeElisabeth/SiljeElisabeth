@@ -1,10 +1,18 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
+</div>
+<div id="links">
+    <a href="https://www.linkedin.com/in/silje-elisabeth-thun%C3%A6s-b395451b5/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ## Hi there 👋
 
 ### :woman_technologist: About Me :
 - :dancer: Im a frontend developer with an eye for design :eyes:
 - 🔭 I’m currently working on a "Budsjett"(budget) website.
 - 🤔 I'm looking for a frontend developer job in my area. ✨
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/silje-elisabeth-thun%C3%A6s-b395451b5/)
 - ⚡ Fun fact: 
 
 ### :hammer_and_wrench: Languages and Tools :
