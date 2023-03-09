@@ -1,12 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-About me: 
--Im a frontend developer with an eye for design :eyes:
+### :woman_technologist: About Me :
+- :dancer: Im a frontend developer with an eye for design :eyes:
 - 🔭 I’m currently working on a "Budsjett"(budget) website.
 - 🤔 I'm looking for a frontend developer job in my area. ✨
-- :sunny: I have two kids, boys, aged 2 and 5! :baby: :boy:
 - 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/silje-elisabeth-thun%C3%A6s-b395451b5/)
-- 
 - ⚡ Fun fact: 
 
 ### :hammer_and_wrench: Languages and Tools :
