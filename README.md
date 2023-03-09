@@ -1,12 +1,13 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="100"/>
-</div>
+
 <div id="links">
     <a href="https://www.linkedin.com/in/silje-elisabeth-thun%C3%A6s-b395451b5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+  </div>
 ## Hi there 👋
 
 ### :woman_technologist: About Me :
