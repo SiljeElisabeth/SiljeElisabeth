@@ -14,7 +14,6 @@
 ### :woman_technologist: About Me :
 - :dancer: Im a frontend developer with an eye for design :eyes:
 - 🔭 I’m currently working on a "Budsjett"(budget) website.
-- 🤔 I'm looking for a frontend developer job in my area.:+1:
 - :video_game: Im currently gaming: Hogwarts Legacy
 - ⚡ Fun fact: Before I started my journey in frontend development I was a hairdresser for 10 years! :haircut:
 
